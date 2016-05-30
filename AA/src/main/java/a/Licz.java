@@ -1,3 +1,4 @@
+package a;
 
 public class Licz {
 	private int a=0;
